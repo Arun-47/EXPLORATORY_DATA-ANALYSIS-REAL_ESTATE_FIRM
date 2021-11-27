@@ -87,7 +87,7 @@ Finally #tableau was used to visualization the insights found during the Analysi
 - Around 70% of the clients are from age of 30 to 70. With a mean of 45 and st.dev of 13 years.
 - As the histogram is right skewed younger are most likely to buy property than older people
 - Advertisements done on websites has a better respons from clients
-- 90% of are customers are individuals
+- 90% of are customers are individuals, While the rest are firms
 - There is no relationship between age of a customer and price they are willing to pay
 
 
